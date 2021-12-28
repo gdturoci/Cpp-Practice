@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(102,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(160,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(275,15): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(289,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(289,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(297,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\main.cpp(297,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\Griffin G. Salazar\source\repos\Cpp Practice\Procedural\Tetris\Debug\Tetris.exe
